@@ -117,14 +117,14 @@ if(NUM_LOOPS>=10)    {
 
 
 ## OUTPUT
-
-![Screenshot 2024-11-13 200736](https://github.com/user-attachments/assets/7358e47a-8738-4c76-b217-e866600bb23d)
 $ ./sem.o 
+![Screenshot 2024-11-13 200736](https://github.com/user-attachments/assets/7358e47a-8738-4c76-b217-e866600bb23d)
 
-
-![Screenshot 2024-11-13 200748](https://github.com/user-attachments/assets/192d7211-58ca-48e6-bc7a-81f91b75e75b)
 
 $ ipcs
+![Screenshot 2024-11-13 200748](https://github.com/user-attachments/assets/192d7211-58ca-48e6-bc7a-81f91b75e75b)
+
+
 
 
 
